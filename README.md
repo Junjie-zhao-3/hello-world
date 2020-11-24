@@ -1,2 +1,5 @@
 # hello-world
-my first repository
+
+Hi Humans!
+
+Junjie is here, and it is a wonderful world.
